@@ -1,8 +1,12 @@
 
-## Kuplift package
+## kuplift package
+
+<p  align="center">
+  <img src="docs/source/logo.png" width="310" />
+</p>
 
 
-Kuplift is a _Python_ package that provides a series of uplift modeling methods based on recent research work. Kuplift allows users to easily use the following algorithms:
+kuplift is a _Python_ package that provides a series of uplift modeling methods based on recent research work. kuplift allows users to easily use the following algorithms:
 
 1. Encoding data using a discretization method for treatment effect (uplift) modeling called _UMODL_[^fn1]
     
@@ -15,7 +19,7 @@ Kuplift is a _Python_ package that provides a series of uplift modeling methods 
 **How to install**:
 
 ```python
-pip install Kuplift
+pip install kuplift
 ```
 
 **User Guide**:
