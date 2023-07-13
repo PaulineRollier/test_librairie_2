@@ -13,6 +13,5 @@ setup(
     packages=["mathematique"],
     description="A User Parameter-free Bayesian Framework for Uplift Modeling",
     long_description=long_description,
-    long_description_content_type='text/markdown',
     install_requires=["pytest", "sphinx", "sphinx_rtd_theme", "ghp-import"],
 )
