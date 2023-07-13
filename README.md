@@ -2,7 +2,7 @@
 ## kuplift package
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/UData-Orange/kuplift/main/docs/source/logo.png" width="310" />
+  <img src="https://raw.githubusercontent.com/PaulineRollier/test_librairie_2/main/docs/source/logo.png" width="310" />
 </p>
 
 
