@@ -7,6 +7,6 @@ setup(
     version=mathematique.__version__,
     packages=["mathematique"],
     description="A User Parameter-free Bayesian Framework for Uplift Modeling",
-    long_description="Check the documentation in https://udata-orange.github.io/kuplift/",
+    long_description="Refer to the documentation at https://udata-orange.github.io/kuplift/",
     install_requires=["pytest", "sphinx", "sphinx_rtd_theme", "ghp-import"],
 )
